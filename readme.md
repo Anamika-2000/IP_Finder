@@ -4,7 +4,7 @@
 This project finds theip adress of websites when you enter its url.
 
 <p align="center">
-    <a href="Readme.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Anamika-2000/IP_Finder/blob/master/readme.md"><strong>Explore the docs »</strong></a>
 <br>
 <br>
     <a href="https://github.com/Anamika-2000/IP_Finder">View Demo</a>
