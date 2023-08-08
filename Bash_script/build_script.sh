@@ -9,7 +9,7 @@ else
 fi
 export JAVA_HOME=/tmp/jdk-17.0.8/
 export PATH=$PATH:/tmp/gradle-8.1.1/bin
-cd IPFinder
+cd IP_Finder
 gradle build 
 pwd
 cd build

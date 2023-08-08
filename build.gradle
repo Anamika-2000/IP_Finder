@@ -26,7 +26,8 @@ dependencies {
 
 jar{
  manifest {
-        attributes 'Implementation-Title': 'IPFinder', 'Implementation-Version': version
+    attributes 'Main-Class':  'ip_finder.App'
+        attributes 'Implementation-Title': mainClassName, 'Implementation-Version': version
     }
 }
 
