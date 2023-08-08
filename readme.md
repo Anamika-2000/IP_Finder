@@ -45,7 +45,9 @@ This application will find the IP address of the website when its url is entered
 
 ## Pre-Requisites
 * Swing
-* Jdk 8
+* Jdk 
+* Gradle
+
 
 <p align="right">
  <a href="#ip-finder">Back to top</a>
